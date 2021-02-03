@@ -3,3 +3,6 @@
 data/
 log/
 pretrain_model/
+
+# 我新增的一个数据集
+BikePersonDataset/
